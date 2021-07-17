@@ -29,7 +29,7 @@ st.title("Finding Optimal Location Using Kmeans")
 st.subheader("By Nana Antwi")
 
 st.write("The data")
-df= pd.read_csv('C://Users//antwi//OneDrive//Desktop//TARGET.csv',encoding='latin-1')
+df= pd.read_csv('https://raw.githubusercontent.com/Cleffybee/Target-Facility-location-prediction/main/Target.csv',encoding='latin-1')
 st.write(df.head())
 #df.head()
 st.write("Shape of Data")
