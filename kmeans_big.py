@@ -40,7 +40,7 @@ st.title("Finding Optimal Location Using Kmeans")
 st.subheader("By Nana Antwi")
 
 st.write("The data")
-df= pd.read_csv('C://Users//antwi//OneDrive//Desktop//TARGET.csv',encoding='latin-1')
+
 st.write(df.head())
 #df.head()
 st.write("Shape of Data")
